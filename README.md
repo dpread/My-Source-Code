@@ -19,7 +19,7 @@ Spatial constraint - A model, usually a table, that is a 'real life' object is i
 --Add Interaction Box---
 This Function makes use of the InteractionObject variable. The function adds a box to the selected object. 
 
-	-InteractionObject - This is an object that the user adds themselves. This is will be a model of an in-game element. This will then be used via the interaction box button
+--InteractionObject - This is an object that the user adds themselves. This is will be a model of an in-game element. This will then be used via the interaction box button
 					which adds a box to the object. This box is then used via the interaction check. 
 
 --Interaction Check---
