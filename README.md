@@ -30,3 +30,9 @@ The user uses this function to check whether the Interactee can reach the Target
 --Run RULA Assessment---
 This is a function that only takes affect once the scene has been changed. 
 It measures the rotation of the various points on the avatar, and assigns a value that represents ergonpmic stress
+
+
+The following scripts were not made by me, but were correctly referenced: 
+
+ikLimbBruno..... the similar C# versions of my source code where adpated in the editor, for making the legs, and body move correctly. 
+SteamVR and VR interaction-like scripts, as in reality, this was not part of my job as toolkit designer, as game developer would decide what happens during interaction, these scripts were mereley tests to see if interactivity was sucessful. 
